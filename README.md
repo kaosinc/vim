@@ -1,2 +1,5 @@
-# vim
-Vim setup. It's super basic ... I'm attempting to use Vim full-time as my editor. Over time I'll add to this but currently I'm using multiple editors: atom, vim, TextMate. Working towards one day just using vim (maybe) as my only editor.
+## General
+This is a "test project" to setup a Github repo. It is intended to be super basic, however at some point I may switch from using multiple editors to just using Vim, so I'll be experimenting with it a lot.
+
+## Bundles
+- vim-airline: Shows a nice statusline at the bottom of each window, there are many other features.
