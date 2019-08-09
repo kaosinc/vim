@@ -6,6 +6,9 @@ This is a simple project to create a vim setup that can be downloaded and used a
 - cd vim
 - cp -rf .vim ~
 - cp -rf .vimrc ~
+- Go to wherever you need to do some work on your system
+- vim
+- :NERDTree
 
 ## Pathogen Bundles Installed
 - vim-airline: Shows a nice statusline at the bottom of each window, there are many other features.
