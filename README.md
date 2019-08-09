@@ -5,6 +5,4 @@ This is a "test project" to setup a Github repo. It is intended to be super basi
 - vim-airline: Shows a nice statusline at the bottom of each window, there are many other features.
 - ansible-vim: linter
 - NERDTree: file viewer.
-
-## Caveats
-- The .git sub-dir for bundles has been removed ... this is bad (probably). The way this should work is that if a user needs to update a bundle they can do it with a git pull.
+- vim-terraform.
