@@ -5,7 +5,7 @@ This is a simple project to create a vim setup that can be downloaded and used a
 - clone the repo
 - cd vim
 - cp -rf .vim ~
-- cp -rf .vimrc ~
+- cp .vimrc ~
 - Go to wherever you need to do some work on your system
 - vim
 - :NERDTree
