@@ -12,6 +12,4 @@ This is a simple project to create a vim setup that can be downloaded and used a
 - ansible-vim: syntax.
 - vim-terraform: symtax.
 
-## Comments (Rambles)
-- NERDTree is the bomb, .vimrc has an entry in it to enable mouse support.
 
