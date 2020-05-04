@@ -8,14 +8,10 @@ This is a simple project to create a vim setup that can be downloaded and used a
 - cp .vimrc ~
 - Go to wherever you need to do some work on your system
 - vim
-- :NERDTree
 
 ## Pathogen Bundles Installed
 - vim-airline: Shows a nice statusline at the bottom of each window, there are many other features.
 - ansible-vim: syntax.
 - NERDTree: file viewer.
 - vim-terraform: symtax.
-
-## Comments (Rambles)
-- NERDTree is the bomb, .vimrc has an entry in it to enable mouse support.
 
